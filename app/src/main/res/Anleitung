@@ -1,0 +1,4 @@
+adb connect 192.168.1.19:37639
+
+Replace 192.168.1.19:5555 with the actual IP address and port number of your watch.
+The file will be saved in the folder D:\Studium\Semester_6\Bachelorarbeit\Watch_Logs on your computer.
